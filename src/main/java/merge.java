@@ -5,7 +5,6 @@ public class merge {
 
     public static void main(String[] args) throws Exception {
         new merge().run();
-
     }
 
     public int[] merge(int[] a, int [] b){
